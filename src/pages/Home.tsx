@@ -1,12 +1,8 @@
 import React from 'react'
-import { HelloWorld } from '../components/HelloWorld/HelloWorld'
+import { HelloWorld } from '@/components/HelloWorld/HelloWorld'
 
 const Home = () => {
-  return (
-    <div>
-      <HelloWorld title="Hello, World!!!" />
-    </div>
-  )
+  return <HelloWorld title={'Hello, world!!!'} />
 }
 
 export default Home
