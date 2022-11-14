@@ -7,3 +7,4 @@ index.html
 service-worker.js
 service-WorkerRegistration.js
 jest.config.js
+craco.config.js
